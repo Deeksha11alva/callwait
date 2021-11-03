@@ -1,0 +1,33 @@
+.polling
+{
+    position: absolute;
+left:84.5%;
+    top:15%;
+}
+.button__badge {
+    background-color: #fa3e3e;
+    border-radius: 2px;
+    color: white;
+   
+    padding: 1px 3px;
+    font-size: 10px;
+    
+    position: absolute; /* Position the badge within the relatively positioned button */
+    top: 0;
+    right: 0;
+  }
+  .css-7e8c5g {
+    display: flex;
+    overflow: hidden;
+    height: 64px;
+    flex: 1 1 auto;
+}
+.css-wcseoz {
+    display: flex;
+    position: absolute;
+    inset: auto 4px 12px auto;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    background-color: inherit;
+}
